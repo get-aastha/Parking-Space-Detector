@@ -45,3 +45,7 @@ This project implements a Smart Parking System with two functionalities:
     * Run `main.py`.
     * The application will start processing the video and displaying the parking availability on each frame.
     * You can close the application window (press 'q') to stop.
+
+# Output
+
+https://github.com/get-aastha/parking_space_detector/assets/108509128/099e915d-087c-48d5-8abb-d85746fbfc01
